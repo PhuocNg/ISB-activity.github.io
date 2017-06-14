@@ -1,0 +1,50 @@
+.header {
+	height: 43px;
+	width: 100%;
+	background-color: #ED2224;
+	text-align: center;
+	padding-top: 15px;
+}
+.headtitle {
+	color: white;
+	text-transform: uppercase;
+	margin-top: 0px;
+}
+.mainimage {
+	width: 100%;
+}
+.form-group {
+	margin-top: 30px;
+}
+.title {
+	text-align: center;
+}
+#logoisb {
+	width: 275px;
+	height: 93px;
+}
+h1 {
+	text-transform: uppercase;
+	color: #8A181B;
+}
+h2 {
+	text-transform: uppercase;
+}
+table, td, th {
+	border: 1px solid black;
+}
+table {
+	border-collapse: collapse;
+}
+.bangdiem {
+	margin: 20px auto auto auto;
+}
+.evaluate {
+	margin-top: 40px;
+}
+.ketqua {
+	margin-top: 50px;
+}
+.btnquayve {
+	margin-top: 30px;
+}
